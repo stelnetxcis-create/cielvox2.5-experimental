@@ -2,7 +2,7 @@
 
 # CielVox 2.5
 
-Local-first text-to-speech, optimized for AMD APUs with Vulkan.
+Local-first text-to-speech, optimized for GPU.
 Built on ggml by Cyna. Shaped by StelNet.
 
 <a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache_2.0-1f6feb?style=for-the-badge" alt="License"></a>
